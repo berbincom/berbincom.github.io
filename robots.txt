@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://berbincom.github.io/berbincom.berbincom
+Sitemap: https://berbincom.github.io/app/berbincom.berbincom
+Sitemap: https://berbincom.github.io/assets/berbincom.berbincom
+Sitemap: https://berbincom.github.io/css/berbincom.berbincom
+Sitemap: https://berbincom.github.io/includes/berbincom.berbincom
+Sitemap: https://berbincom.github.io/item/berbincom.berbincom
+Sitemap: https://berbincom.github.io/src/berbincom.berbincom
